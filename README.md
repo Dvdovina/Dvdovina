@@ -10,7 +10,7 @@
       <li>🔭 Providing IT solutions that are useful, practical and beautiful.</li>
 </ul>
 
-<h3 align="center">I'm open to new job opportunities and excited to join a good team!</h3>
+<h3>I'm open to new job opportunities and excited to join a good team!</h3>
 
 # Tech Stack:
 

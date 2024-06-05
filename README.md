@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a>Daria</a></h1>
 <h2 align="center">I am a Front-End Developer, currently based in Moscow.</h2>
-<h3 align="center">I'm open to new job opportunities and excited to join a good team!</h3>
 
 <h3>My passions are:<h3>
 
@@ -10,6 +9,8 @@
       <li>👯 Collaborating with amazing teams and people.</li>
       <li>🔭 Providing IT solutions that are useful, practical and beautiful.</li>
 </ul>
+
+<h3 align="center">I'm open to new job opportunities and excited to join a good team!</h3>
 
 # Tech Stack:
 
